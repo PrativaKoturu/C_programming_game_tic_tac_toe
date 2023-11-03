@@ -1,7 +1,7 @@
 /* This is a fun tic tac toe game created using C Programming.
    Group 1: Prativa Koturu (Roll No. 31)
             Srishti Motwani (Roll No. 39)
-			Mayank Bajaj (Roll No. 03)
+	    Mayank Bajaj (Roll No. 03)
 */
 
 #include <stdio.h>
